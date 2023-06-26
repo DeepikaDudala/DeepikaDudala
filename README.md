@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DeepikaDudala
+- 👋 Hi, I’m Deepika Siva Sahithi Dudala
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on web development as intern
