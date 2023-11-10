@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepika Siva Sahithi Dudala
-- 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning react
+- 👀 An Aspiring fullstack developer
+- 🌱 I’m currently learning express.js
 - 💞️ I’m looking to collaborate on web development as intern
 - 📫 How to reach me deepika.dudala@sasi.ac.in
 
