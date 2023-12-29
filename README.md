@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepika Siva Sahithi Dudala</h1>
 <h3 align="center">An Aspiring fullstack developer</h3>
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+<br>
 - 🔭 I’m currently working on **TestBoard Application**
 
 - 🌱 I’m currently learning **Next.js**
@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **deepika.dudala@sasi.ac.in**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepika-siva-sahithi-dudala-21642a243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepika-siva-sahithi-dudala-21642a243" height="30" width="40" /></a>
