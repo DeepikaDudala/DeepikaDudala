@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TestBoard Application**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Nest.js**
 
 - 👯 I’m looking to collaborate on **full stack development as intern**
 
