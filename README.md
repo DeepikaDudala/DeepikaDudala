@@ -4,9 +4,9 @@
 <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <br>
 
-- 🔭 I’m currently working on **TestBoard Application**
+- 🔭 My new application **TestBoard**
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👯 I’m looking to collaborate on **full stack development as intern**
 
