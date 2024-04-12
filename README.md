@@ -6,7 +6,7 @@
 
 - 🔭 My new application **TestBoard**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👯 I’m looking to collaborate on **full stack development as intern**
 
