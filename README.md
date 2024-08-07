@@ -43,36 +43,37 @@ me.say_hi()
 **Frontend :**
 
  ![HTML](https://img.shields.io/badge/Frontend-HTML-informational?style=flat&logo=html5&logoColor=white&color=6aa6f8)
- ![CSS](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
- ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
- ![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+     ![CSS](https://img.shields.io/badge/Frontend-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+     ![JavaScript](https://img.shields.io/badge/Frontend-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
+     ![TypeScript](https://img.shields.io/badge/Frontend-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)
+ 
 ![Bootstrap](https://img.shields.io/badge/Frontend-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
  ![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
  ![Redux](https://img.shields.io/badge/Frontend-Redux-informational?style=flat&logo=redux&logoColor=white&color=6aa6f8)
 
-**Backend Technologies:**
+**Backend :**
 
  ![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=6aa6f8)
  ![Express](https://img.shields.io/badge/Backend-Express-informational?style=flat&logo=express&logoColor=white&color=6aa6f8)
  ![NestJS](https://img.shields.io/badge/Backend-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=6aa6f8)
  ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
 
-**Other Technologies:**
+**Database Languages :**
 
  ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
  ![SQL](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 
-**Programming Languages:**
+**Programming Languages :**
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=6aa6f8)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=6aa6f8)
 
-**Tools and Services:**
+**Tools and Services :**
 
-- ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
-- ![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
-- ![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=6aa6f8)
+![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
  ![LangChain](https://img.shields.io/badge/Other-LangChain-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
  ## &#x1f4c8; GitHub Stats
@@ -89,6 +90,8 @@ me.say_hi()
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepikadudala&show_icons=true&line_height=27" alt="Deepika's GitHub Streak" style="border-radius: 8px;"/>
   </div>
 </a> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=deepikadudala&theme=prussian&border_radius=4.3&background=22272e)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 
