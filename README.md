@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DeepikaDudala.DeepikaDudala)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://sahithiportfolio.onrender.com)
 
 ```python
 #!/usr/bin/python
