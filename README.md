@@ -13,7 +13,7 @@ class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Deepika Siva Sahithi Dudala"
-        self.role = "FullStack Engineer"
+        self.role = "FullStack Developer"
         self.language_spoken = ["en_IN", "te_IN"]
 
     def say_hi(self):
